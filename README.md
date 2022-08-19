@@ -1,3 +1,5 @@
+# NOTE: This repository is now outdated. It uses the old v2 mangadex.org API, which is now deprecated in favour of the v5 API post data leak. Please refer to [my new Android app](https://github.com/michelelorusso05/Mangadex-Downloader) for some example usages, although it's written in Java and not in Python.
+
 # MangadexDownloader
 Download any manga you want from mangadex.org!
 
